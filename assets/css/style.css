@@ -1,32 +1,32 @@
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #3a3a3a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #3a3a3a;
 }
 main {
-    width: fit-content;
-   padding-top: 1rem;
-   padding-bottom: 1rem;
-   padding-left: 2rem;
-   padding-right: 2rem;
-   background-color: #a2a8af;
-   color: whitesmoke;
-   border-radius: 0.5rem;
+  width: fit-content;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background-color: #a2a8af;
+  color: whitesmoke;
+  border-radius: 0.5rem;
 }
 hr {
-    border: none; 
-    height: 2px;
-    color: white;
-    background-color: white;
+  border: none;
+  height: 2px;
+  color: white;
+  background-color: white;
 }
 h1 {
-    color: whitesmoke;
-    text-align: center;
+  color: whitesmoke;
+  text-align: center;
 }
 .border {
-    border-radius: 0.2rem;
-    width: 100%;
-    outline: none;
+  border-radius: 0.2rem;
+  width: 100%;
+  outline: none;
 }
